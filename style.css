@@ -1,0 +1,3032 @@
+.vasavi-group {
+  background-color: #f8f8f8;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 100%;
+}
+/* Base styles for desktop screens */
+.navbar {
+  display: flex;
+  align-items: center;
+}
+
+.navbar .text-wrapper-13,
+.navbar .text-wrapper-14,
+.navbar .text-wrapper-15,
+.navbar .text-wrapper-16,
+.navbar .text-wrapper-17,
+.navbar .text-wrapper-18 {
+  margin-right: 20px;
+}
+
+.navbar .frame-3 {
+  display: flex;
+  align-items: center;
+}
+
+/* Responsive styles for smaller screens */
+@media (max-width: 768px) {
+  .navbar {
+    flex-direction: column;
+    align-items: flex-start;
+  }
+
+  .navbar .text-wrapper-13,
+  .navbar .text-wrapper-14,
+  .navbar .text-wrapper-15,
+  .navbar .text-wrapper-16,
+  .navbar .text-wrapper-18 {
+    margin: 10px 0;
+  }
+
+  .navbar .frame-3 {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    margin-top: 10px;
+  }
+}
+
+/* Additional responsive styles can be added for smaller screens if needed */
+
+.vasavi-group .div {
+  background-color: #f8f8f8;
+  width: 1440px;
+  height: 13329px;
+  position: relative;
+}
+
+.vasavi-group .overlap {
+  position: absolute;
+  width: 1440px;
+  height: 1351px;
+  top: 4493px;
+  left: 0;
+  background-color: #ffffff;
+}
+
+.vasavi-group .overlap-group {
+  position: absolute;
+  width: 262px;
+  height: 242px;
+  top: 243px;
+  left: 870px;
+}
+
+.vasavi-group .img {
+  position: absolute;
+  width: 100px;
+  height: 90px;
+  top: 48px;
+  left: 162px;
+  object-fit: cover;
+}
+
+.vasavi-group .rectangle {
+  position: absolute;
+  width: 234px;
+  height: 242px;
+  top: 0;
+  left: 0;
+  border: 2px solid;
+  border-color: #d6b25e;
+}
+
+.vasavi-group .text-wrapper {
+  position: absolute;
+  top: 144px;
+  left: 33px;
+  font-family: "Roboto", Helvetica;
+  font-weight: 400;
+  color: #747474;
+  font-size: 24px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: 32.4px;
+  white-space: nowrap;
+}
+
+.vasavi-group .my-home-apas {
+  position: absolute;
+  width: 90px;
+  height: 90px;
+  top: 40px;
+  left: 72px;
+}
+
+.vasavi-group .p {
+  position: absolute;
+  width: 1299px;
+  top: 148px;
+  left: 71px;
+  font-family: "Roboto", Helvetica;
+  font-weight: 400;
+  color: #747474;
+  font-size: 20px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: 27px;
+}
+
+.vasavi-group .text-wrapper-2 {
+  position: absolute;
+  top: 79px;
+  left: 615px;
+  font-family: "Roboto", Helvetica;
+  font-weight: 600;
+  color: #2b2e66;
+  font-size: 46.4px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: 52.7px;
+  white-space: nowrap;
+}
+
+.vasavi-group .overlap-2 {
+  position: absolute;
+  width: 234px;
+  height: 242px;
+  top: 791px;
+  left: 71px;
+  border: 2px solid;
+  border-color: #d6b25e;
+}
+
+.vasavi-group .walking-jogging {
+  position: absolute;
+  width: 213px;
+  top: 137px;
+  left: 9px;
+  font-family: "Roboto", Helvetica;
+  font-weight: 400;
+  color: #747474;
+  font-size: 24px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: 32.4px;
+}
+
+.vasavi-group .group {
+  position: absolute;
+  width: 87px;
+  height: 90px;
+  top: 33px;
+  left: 72px;
+}
+
+.vasavi-group .overlap-3 {
+  position: absolute;
+  width: 234px;
+  height: 242px;
+  top: 517px;
+  left: 71px;
+  border: 2px solid;
+  border-color: #d6b25e;
+}
+
+.vasavi-group .text-wrapper-3 {
+  position: absolute;
+  top: 139px;
+  left: 38px;
+  font-family: "Roboto", Helvetica;
+  font-weight: 400;
+  color: #747474;
+  font-size: 24px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: 32.4px;
+  white-space: nowrap;
+}
+
+.vasavi-group .my-home-apas-2 {
+  position: absolute;
+  width: 90px;
+  height: 90px;
+  top: 35px;
+  left: 70px;
+}
+
+.vasavi-group .overlap-4 {
+  position: absolute;
+  width: 234px;
+  height: 242px;
+  top: 243px;
+  left: 71px;
+  border: 2px solid;
+  border-color: #d6b25e;
+}
+
+.vasavi-group .fitness-centers {
+  position: absolute;
+  top: 142px;
+  left: 29px;
+  font-family: "Roboto", Helvetica;
+  font-weight: 400;
+  color: #747474;
+  font-size: 24px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: 32.4px;
+  white-space: nowrap;
+}
+
+.vasavi-group .my-home-apas-3 {
+  top: 38px;
+  position: absolute;
+  width: 90px;
+  height: 90px;
+  left: 70px;
+}
+
+.vasavi-group .overlap-5 {
+  position: absolute;
+  width: 234px;
+  height: 242px;
+  top: 517px;
+  left: 604px;
+  border: 2px solid;
+  border-color: #d6b25e;
+}
+
+.vasavi-group .walking-jogging-2 {
+  top: 139px;
+  left: 8px;
+  position: absolute;
+  width: 213px;
+  font-family: "Roboto", Helvetica;
+  font-weight: 400;
+  color: #747474;
+  font-size: 24px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: 32.4px;
+}
+
+.vasavi-group .group-2 {
+  top: 35px;
+  left: 71px;
+  position: absolute;
+  width: 87px;
+  height: 90px;
+}
+
+.vasavi-group .overlap-6 {
+  position: absolute;
+  width: 234px;
+  height: 242px;
+  top: 243px;
+  left: 604px;
+  border: 2px solid;
+  border-color: #d6b25e;
+}
+
+.vasavi-group .text-wrapper-4 {
+  top: 142px;
+  position: absolute;
+  left: 38px;
+  font-family: "Roboto", Helvetica;
+  font-weight: 400;
+  color: #747474;
+  font-size: 24px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: 32.4px;
+  white-space: nowrap;
+}
+
+.vasavi-group .overlap-7 {
+  position: absolute;
+  width: 234px;
+  height: 242px;
+  top: 791px;
+  left: 604px;
+  border: 2px solid;
+  border-color: #d6b25e;
+}
+
+.vasavi-group .text-wrapper-5 {
+  top: 137px;
+  position: absolute;
+  left: 38px;
+  font-family: "Roboto", Helvetica;
+  font-weight: 400;
+  color: #747474;
+  font-size: 24px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: 32.4px;
+  white-space: nowrap;
+}
+
+.vasavi-group .my-home-apas-4 {
+  top: 33px;
+  position: absolute;
+  width: 90px;
+  height: 90px;
+  left: 70px;
+}
+
+.vasavi-group .overlap-8 {
+  position: absolute;
+  width: 234px;
+  height: 242px;
+  top: 791px;
+  left: 870px;
+  border: 2px solid;
+  border-color: #d6b25e;
+}
+
+.vasavi-group .text-wrapper-6 {
+  top: 137px;
+  left: 31px;
+  position: absolute;
+  font-family: "Roboto", Helvetica;
+  font-weight: 400;
+  color: #747474;
+  font-size: 24px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: 32.4px;
+  white-space: nowrap;
+}
+
+.vasavi-group .overlap-9 {
+  position: absolute;
+  width: 234px;
+  height: 242px;
+  top: 517px;
+  left: 870px;
+  border: 2px solid;
+  border-color: #d6b25e;
+}
+
+.vasavi-group .fitness-centers-2 {
+  top: 139px;
+  left: 28px;
+  position: absolute;
+  font-family: "Roboto", Helvetica;
+  font-weight: 400;
+  color: #747474;
+  font-size: 24px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: 32.4px;
+  white-space: nowrap;
+}
+
+.vasavi-group .overlap-10 {
+  position: absolute;
+  width: 234px;
+  height: 242px;
+  top: 243px;
+  left: 337px;
+  border: 2px solid;
+  border-color: #d6b25e;
+}
+
+.vasavi-group .walking-jogging-3 {
+  top: 142px;
+  left: 9px;
+  position: absolute;
+  width: 213px;
+  font-family: "Roboto", Helvetica;
+  font-weight: 400;
+  color: #747474;
+  font-size: 24px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: 32.4px;
+}
+
+.vasavi-group .group-3 {
+  top: 38px;
+  left: 72px;
+  position: absolute;
+  width: 87px;
+  height: 90px;
+}
+
+.vasavi-group .overlap-11 {
+  position: absolute;
+  width: 234px;
+  height: 242px;
+  top: 517px;
+  left: 337px;
+  border: 2px solid;
+  border-color: #d6b25e;
+}
+
+.vasavi-group .text-wrapper-7 {
+  top: 139px;
+  left: 32px;
+  position: absolute;
+  font-family: "Roboto", Helvetica;
+  font-weight: 400;
+  color: #747474;
+  font-size: 24px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: 32.4px;
+  white-space: nowrap;
+}
+
+.vasavi-group .overlap-12 {
+  position: absolute;
+  width: 234px;
+  height: 242px;
+  top: 791px;
+  left: 337px;
+  border: 2px solid;
+  border-color: #d6b25e;
+}
+
+.vasavi-group .fitness-centers-3 {
+  top: 137px;
+  left: 29px;
+  position: absolute;
+  font-family: "Roboto", Helvetica;
+  font-weight: 400;
+  color: #747474;
+  font-size: 24px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: 32.4px;
+  white-space: nowrap;
+}
+
+.vasavi-group .overlap-13 {
+  position: absolute;
+  width: 234px;
+  height: 242px;
+  top: 243px;
+  left: 1136px;
+  border: 2px solid;
+  border-color: #d6b25e;
+}
+
+.vasavi-group .walking-jogging-4 {
+  top: 142px;
+  left: 8px;
+  position: absolute;
+  width: 213px;
+  font-family: "Roboto", Helvetica;
+  font-weight: 400;
+  color: #747474;
+  font-size: 24px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: 32.4px;
+}
+
+.vasavi-group .group-4 {
+  position: absolute;
+  width: 87px;
+  height: 90px;
+  top: 38px;
+  left: 71px;
+}
+
+.vasavi-group .overlap-14 {
+  position: absolute;
+  width: 234px;
+  height: 242px;
+  top: 517px;
+  left: 1136px;
+  border: 2px solid;
+  border-color: #d6b25e;
+}
+
+.vasavi-group .text-wrapper-8 {
+  top: 139px;
+  left: 31px;
+  position: absolute;
+  font-family: "Roboto", Helvetica;
+  font-weight: 400;
+  color: #747474;
+  font-size: 24px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: 32.4px;
+  white-space: nowrap;
+}
+
+.vasavi-group .overlap-15 {
+  position: absolute;
+  width: 234px;
+  height: 242px;
+  top: 791px;
+  left: 1136px;
+  border: 2px solid;
+  border-color: #d6b25e;
+}
+
+.vasavi-group .fitness-centers-4 {
+  top: 137px;
+  left: 28px;
+  position: absolute;
+  font-family: "Roboto", Helvetica;
+  font-weight: 400;
+  color: #747474;
+  font-size: 24px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: 32.4px;
+  white-space: nowrap;
+}
+
+.vasavi-group .vector-wrapper {
+  position: absolute;
+  width: 48px;
+  height: 48px;
+  top: 1073px;
+  left: 912px;
+  background-color: #2b2e66;
+}
+
+.vasavi-group .vector {
+  position: absolute;
+  width: 15px;
+  height: 26px;
+  top: 11px;
+  left: 17px;
+}
+
+.vasavi-group .overlap-wrapper {
+  position: absolute;
+  width: 48px;
+  height: 48px;
+  top: 1073px;
+  left: 480px;
+}
+
+.vasavi-group .overlap-16 {
+  position: relative;
+  height: 48px;
+}
+
+.vasavi-group .vector-2 {
+  position: absolute;
+  width: 15px;
+  height: 26px;
+  top: 11px;
+  left: 16px;
+}
+
+.vasavi-group .rectangle-2 {
+  position: absolute;
+  width: 48px;
+  height: 48px;
+  top: 0;
+  left: 0;
+  border: 1.8px solid;
+  border-color: #2b2e66;
+  transform: rotate(180deg);
+}
+
+.vasavi-group .overlap-group-wrapper {
+  position: absolute;
+  width: 50px;
+  height: 48px;
+  top: 1073px;
+  left: 552px;
+}
+
+.vasavi-group .div-wrapper {
+  position: relative;
+  width: 48px;
+  height: 48px;
+  border: 1.8px solid;
+  border-color: #2b2e66;
+}
+
+.vasavi-group .text-wrapper-9 {
+  position: absolute;
+  top: 3px;
+  left: 14px;
+  font-family: "Roboto", Helvetica;
+  font-weight: 400;
+  color: #2b2e66;
+  font-size: 28px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: 37.8px;
+  white-space: nowrap;
+}
+
+.vasavi-group .group-5 {
+  position: absolute;
+  width: 50px;
+  height: 48px;
+  top: 1073px;
+  left: 624px;
+}
+
+.vasavi-group .group-6 {
+  position: absolute;
+  width: 50px;
+  height: 48px;
+  top: 1073px;
+  left: 696px;
+}
+
+.vasavi-group .overlap-17 {
+  position: relative;
+  width: 48px;
+  height: 48px;
+  background-color: #2b2e66;
+}
+
+.vasavi-group .text-wrapper-10 {
+  position: absolute;
+  top: 5px;
+  left: 16px;
+  font-family: "Roboto", Helvetica;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 28px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: 37.8px;
+  white-space: nowrap;
+}
+
+.vasavi-group .group-7 {
+  position: absolute;
+  width: 50px;
+  height: 48px;
+  top: 1073px;
+  left: 768px;
+}
+
+.vasavi-group .group-8 {
+  position: absolute;
+  width: 50px;
+  height: 48px;
+  top: 1073px;
+  left: 840px;
+}
+
+.vasavi-group .frame {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  gap: 10px;
+  padding: 12.5px 32px;
+  position: absolute;
+  top: 1223px;
+  left: 648px;
+  background-color: #2b2e66;
+}
+
+.vasavi-group .text-wrapper-11 {
+  position: relative;
+  width: fit-content;
+  margin-top: -1px;
+  font-family: "Roboto", Helvetica;
+  font-weight: 700;
+  color: #ffffff;
+  font-size: 16px;
+  text-align: right;
+  letter-spacing: 0;
+  line-height: 23.3px;
+  white-space: nowrap;
+}
+
+.vasavi-group .overlap-18 {
+  position: absolute;
+  width: 1440px;
+  height: 838px;
+  top: 2951px;
+  left: 0;
+  background-image: url(./img/untitled-1-2.png);
+  background-size: cover;
+  background-position: 50% 50%;
+}
+
+.vasavi-group .flexcontainer {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 22px;
+  position: absolute;
+  width: 1299px;
+  height: 223px;
+  top: 155px;
+  left: 71px;
+}
+
+.vasavi-group .text {
+  position: relative;
+  align-self: stretch;
+  font-family: "Roboto", Helvetica;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 21px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: 30px;
+}
+
+.vasavi-group .span {
+  font-family: "Roboto", Helvetica;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 21px;
+  letter-spacing: 0;
+  line-height: 30px;
+}
+
+.vasavi-group .frame-2 {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  gap: 10px;
+  padding: 12.5px 32px;
+  position: absolute;
+  top: 419px;
+  left: 629px;
+  background-color: #d6b25e;
+}
+
+.vasavi-group .text-wrapper-12 {
+  position: absolute;
+  top: 79px;
+  left: 417px;
+  font-family: "Roboto", Helvetica;
+  font-weight: 700;
+  color: #ffffff;
+  font-size: 56px;
+  letter-spacing: 0;
+  line-height: 60.5px;
+  white-space: nowrap;
+}
+
+.vasavi-group .navbar {
+  position: absolute;
+  width: 1440px;
+  height: 88px;
+  top: 0;
+  left: 0;
+  background-color: #ffffff;
+}
+
+.vasavi-group .text-wrapper-13 {
+  position: absolute;
+  top: 35px;
+  left: 844px;
+  font-family: "Roboto", Helvetica;
+  font-weight: 400;
+  color: #2b2e66;
+  font-size: 15.7px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: 15.7px;
+  white-space: nowrap;
+}
+
+.vasavi-group .text-wrapper-14 {
+  left: 963px;
+  position: absolute;
+  top: 35px;
+  font-family: "Roboto", Helvetica;
+  font-weight: 400;
+  color: #2b2e66;
+  font-size: 15.7px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: 15.7px;
+  white-space: nowrap;
+}
+
+.vasavi-group .text-wrapper-15 {
+  position: absolute;
+  top: 35px;
+  left: 1039px;
+  font-family: "Roboto", Helvetica;
+  font-weight: 400;
+  color: #2b2e66;
+  font-size: 15.7px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: 15.7px;
+  white-space: nowrap;
+}
+
+.vasavi-group .text-wrapper-16 {
+  position: absolute;
+  top: 35px;
+  left: 520px;
+  font-family: "Roboto", Helvetica;
+  font-weight: 400;
+  color: #2b2e66;
+  font-size: 15.7px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: 15.7px;
+  white-space: nowrap;
+}
+
+.vasavi-group .frame-3 {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  gap: 7.49px;
+  padding: 16px 32px;
+  position: absolute;
+  top: 21px;
+  left: 1166px;
+  background-color: #2b2e66;
+}
+
+.vasavi-group .text-wrapper-17 {
+  position: relative;
+  width: fit-content;
+  margin-top: -0.75px;
+  font-family: "Roboto", Helvetica;
+  font-weight: 700;
+  color: #ffffff;
+  font-size: 16px;
+  text-align: right;
+  letter-spacing: 0;
+  line-height: 16px;
+  white-space: nowrap;
+}
+
+.vasavi-group .text-wrapper-18 {
+  left: 733px;
+  position: absolute;
+  top: 35px;
+  font-family: "Roboto", Helvetica;
+  font-weight: 400;
+  color: #2b2e66;
+  font-size: 15.7px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: 15.7px;
+  white-space: nowrap;
+}
+
+.vasavi-group .vasavi-logo {
+  top: 16px;
+  left: 71px;
+  position: absolute;
+  width: 246px;
+  height: 56px;
+}
+
+.vasavi-group .overlap-19 {
+  position: absolute;
+  width: 1440px;
+  height: 848px;
+  top: 11258px;
+  left: 0;
+  background-color: #ffffff;
+}
+
+.vasavi-group .location {
+  position: absolute;
+  top: 79px;
+  left: 622px;
+  font-family: "Poppins", Helvetica;
+  font-weight: 600;
+  color: #2b2e66;
+  font-size: 46.4px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: 52.7px;
+  white-space: nowrap;
+}
+
+.vasavi-group .overlap-20 {
+  position: absolute;
+  width: 720px;
+  height: 600px;
+  top: 248px;
+  left: 0;
+  background-color: #2b2e66;
+}
+
+.vasavi-group .enquire-now {
+  position: absolute;
+  top: 79px;
+  left: 253px;
+  font-family: "Roboto", Helvetica;
+  font-weight: 700;
+  color: #ffffff;
+  font-size: 32.2px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.vasavi-group .overlap-21 {
+  position: absolute;
+  width: 424px;
+  height: 56px;
+  top: 254px;
+  left: 148px;
+}
+
+.vasavi-group .rectangle-3 {
+  position: absolute;
+  width: 125px;
+  height: 56px;
+  top: 0;
+  left: 0;
+  background-color: #1f225d;
+  opacity: 0.4;
+}
+
+.vasavi-group .rectangle-4 {
+  position: absolute;
+  width: 424px;
+  height: 56px;
+  top: 0;
+  left: 0;
+  border: 1.5px solid;
+  border-color: #636699;
+}
+
+.vasavi-group .vector-3 {
+  position: absolute;
+  width: 1px;
+  height: 56px;
+  top: 0;
+  left: 124px;
+}
+
+.vasavi-group .text-wrapper-19 {
+  position: absolute;
+  top: 14px;
+  left: 149px;
+  font-family: "Roboto", Helvetica;
+  font-weight: 400;
+  color: #636699;
+  font-size: 21px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.vasavi-group .text-wrapper-20 {
+  position: absolute;
+  top: 14px;
+  left: 62px;
+  font-family: "Roboto", Helvetica;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 21px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.vasavi-group .polygon {
+  position: absolute;
+  width: 16px;
+  height: 11px;
+  top: 22px;
+  left: 100px;
+}
+
+.vasavi-group .group-9 {
+  position: absolute;
+  width: 35px;
+  height: 21px;
+  top: 18px;
+  left: 17px;
+}
+
+.vasavi-group .overlap-group-2 {
+  position: absolute;
+  width: 424px;
+  height: 56px;
+  top: 158px;
+  left: 148px;
+  border: 1.5px solid;
+  border-color: #636699;
+}
+
+.vasavi-group .text-wrapper-21 {
+  position: absolute;
+  top: 12px;
+  left: 36px;
+  font-family: "Roboto", Helvetica;
+  font-weight: 400;
+  color: #636699;
+  font-size: 21px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.vasavi-group .overlap-22 {
+  position: absolute;
+  width: 424px;
+  height: 56px;
+  top: 350px;
+  left: 148px;
+  border: 1.5px solid;
+  border-color: #636699;
+}
+
+.vasavi-group .text-wrapper-22 {
+  position: absolute;
+  top: 14px;
+  left: 36px;
+  font-family: "Roboto", Helvetica;
+  font-weight: 400;
+  color: #636699;
+  font-size: 21px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.vasavi-group .group-10 {
+  position: absolute;
+  width: 242px;
+  height: 48px;
+  top: 473px;
+  left: 240px;
+}
+
+.vasavi-group .submit-wrapper {
+  position: relative;
+  width: 240px;
+  height: 48px;
+  background-color: #d6b25e;
+  border-radius: 5px;
+}
+
+.vasavi-group .submit {
+  position: absolute;
+  width: 59px;
+  top: 15px;
+  left: 90px;
+  font-family: "Roboto", Helvetica;
+  font-weight: 700;
+  color: #ffffff;
+  font-size: 15.7px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.vasavi-group .text-wrapper-23 {
+  width: 1286px;
+  top: 148px;
+  left: 76px;
+  font-weight: 400;
+  color: #999999;
+  font-size: 20px;
+  text-align: center;
+  line-height: 27px;
+  position: absolute;
+  font-family: "Roboto", Helvetica;
+  letter-spacing: 0;
+}
+
+.vasavi-group .img-wrapper {
+  position: absolute;
+  width: 720px;
+  height: 600px;
+  top: 248px;
+  left: 720px;
+  background-image: url(./img/mask-group-2.png);
+  background-size: 100% 100%;
+}
+
+.vasavi-group .vector-4 {
+  position: absolute;
+  width: 14px;
+  height: 20px;
+  top: 302px;
+  left: 291px;
+}
+
+.vasavi-group .overlap-23 {
+  position: absolute;
+  width: 1439px;
+  height: 1521px;
+  top: 5844px;
+  left: 1px;
+  background-color: #2b2e66;
+}
+
+.vasavi-group .text-wrapper-24 {
+  position: absolute;
+  top: 79px;
+  left: 608px;
+  font-family: "Roboto", Helvetica;
+  font-weight: 600;
+  color: #ffffff;
+  font-size: 46.4px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: 52.7px;
+  white-space: nowrap;
+}
+
+.vasavi-group .text-wrapper-25 {
+  width: 1286px;
+  top: 148px;
+  left: 75px;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 20px;
+  text-align: center;
+  line-height: 27px;
+  position: absolute;
+  font-family: "Roboto", Helvetica;
+  letter-spacing: 0;
+}
+
+.vasavi-group .sitelayout-img {
+  position: absolute;
+  width: 1300px;
+  height: 618px;
+  top: 248px;
+  left: 69px;
+}
+
+.vasavi-group .entry-gateway-with {
+  position: absolute;
+  width: 280px;
+  top: 908px;
+  left: 69px;
+  font-family: "Poppins", Helvetica;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 21px;
+  letter-spacing: 0;
+  line-height: 28.4px;
+}
+
+.vasavi-group .central-water {
+  position: absolute;
+  width: 280px;
+  top: 908px;
+  left: 412px;
+  font-family: "Poppins", Helvetica;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 21px;
+  letter-spacing: 0;
+  line-height: 28.4px;
+}
+
+.vasavi-group .meditation-decks {
+  position: absolute;
+  width: 280px;
+  top: 908px;
+  left: 755px;
+  font-family: "Poppins", Helvetica;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 21px;
+  letter-spacing: 0;
+  line-height: 28.4px;
+}
+
+.vasavi-group .care-taker-s-court {
+  position: absolute;
+  width: 271px;
+  top: 908px;
+  left: 1098px;
+  font-family: "Poppins", Helvetica;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 21px;
+  letter-spacing: 0;
+  line-height: 28.4px;
+}
+
+.vasavi-group .overlap-24 {
+  position: absolute;
+  width: 235px;
+  height: 145px;
+  top: 1047px;
+  left: 821px;
+  border: 1px solid;
+  border-color: #d6b25e;
+}
+
+.vasavi-group .text-wrapper-26 {
+  position: absolute;
+  width: 163px;
+  top: 73px;
+  left: 35px;
+  font-family: "Roboto", Helvetica;
+  font-weight: 400;
+  color: #757575;
+  font-size: 15px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: 17.1px;
+}
+
+.vasavi-group .layer {
+  position: absolute;
+  width: 44px;
+  height: 40px;
+  top: 19px;
+  left: 95px;
+}
+
+.vasavi-group .overlap-25 {
+  position: absolute;
+  width: 235px;
+  height: 145px;
+  top: 2417px;
+  left: 71px;
+  border: 1px solid;
+  border-color: #d6b25e;
+}
+
+.vasavi-group .layer-2 {
+  position: absolute;
+  width: 40px;
+  height: 40px;
+  top: 17px;
+  left: 97px;
+}
+
+.vasavi-group .element-rise-in-demand-in {
+  position: absolute;
+  width: 163px;
+  top: 71px;
+  left: 35px;
+  font-family: "Roboto", Helvetica;
+  font-weight: 400;
+  color: #747474;
+  font-size: 15px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: 19px;
+}
+
+.vasavi-group .overlap-26 {
+  position: absolute;
+  width: 235px;
+  height: 145px;
+  top: 1224px;
+  left: 821px;
+  border: 1px solid;
+  border-color: #d6b25e;
+}
+
+.vasavi-group .text-wrapper-27 {
+  position: absolute;
+  width: 187px;
+  top: 72px;
+  left: 23px;
+  font-family: "Roboto", Helvetica;
+  font-weight: 400;
+  color: #757575;
+  font-size: 15px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: 17.1px;
+}
+
+.vasavi-group .layer-3 {
+  position: absolute;
+  width: 34px;
+  height: 40px;
+  top: 18px;
+  left: 100px;
+}
+
+.vasavi-group .overlap-27 {
+  position: absolute;
+  width: 235px;
+  height: 145px;
+  top: 2594px;
+  left: 71px;
+  border: 1px solid;
+  border-color: #d6b25e;
+}
+
+.vasavi-group .layer-4 {
+  position: absolute;
+  width: 43px;
+  height: 40px;
+  top: 15px;
+  left: 95px;
+}
+
+.vasavi-group .text-wrapper-28 {
+  position: absolute;
+  width: 195px;
+  top: 69px;
+  left: 19px;
+  font-family: "Roboto", Helvetica;
+  font-weight: 400;
+  color: #747474;
+  font-size: 15px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: 19px;
+}
+
+.vasavi-group .overlap-28 {
+  position: absolute;
+  width: 235px;
+  height: 145px;
+  top: 1047px;
+  left: 1088px;
+  border: 1px solid;
+  border-color: #d6b25e;
+}
+
+.vasavi-group .layer-5 {
+  position: absolute;
+  width: 32px;
+  height: 40px;
+  top: 19px;
+  left: 101px;
+}
+
+.vasavi-group .overlap-29 {
+  position: absolute;
+  width: 235px;
+  height: 145px;
+  top: 2417px;
+  left: 338px;
+  border: 1px solid;
+  border-color: #d6b25e;
+}
+
+.vasavi-group .layer-6 {
+  position: absolute;
+  width: 34px;
+  height: 40px;
+  top: 17px;
+  left: 100px;
+}
+
+.vasavi-group .text-wrapper-29 {
+  position: absolute;
+  width: 226px;
+  top: 71px;
+  left: 4px;
+  font-family: "Roboto", Helvetica;
+  font-weight: 400;
+  color: #747474;
+  font-size: 15px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: 19px;
+}
+
+.vasavi-group .overlap-30 {
+  position: absolute;
+  width: 235px;
+  height: 145px;
+  top: 1224px;
+  left: 1088px;
+  border: 1px solid;
+  border-color: #d6b25e;
+}
+
+.vasavi-group .text-wrapper-30 {
+  position: absolute;
+  width: 196px;
+  top: 72px;
+  left: 19px;
+  font-family: "Roboto", Helvetica;
+  font-weight: 400;
+  color: #757575;
+  font-size: 15px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: 17.1px;
+}
+
+.vasavi-group .layer-7 {
+  position: absolute;
+  width: 42px;
+  height: 40px;
+  top: 18px;
+  left: 96px;
+}
+
+.vasavi-group .overlap-31 {
+  position: absolute;
+  width: 235px;
+  height: 144px;
+  top: 2594px;
+  left: 338px;
+  border: 1px solid;
+  border-color: #d6b25e;
+}
+
+.vasavi-group .layer-8 {
+  position: absolute;
+  width: 38px;
+  height: 40px;
+  top: 14px;
+  left: 98px;
+}
+
+.vasavi-group .text-wrapper-31 {
+  position: absolute;
+  width: 203px;
+  top: 69px;
+  left: 15px;
+  font-family: "Roboto", Helvetica;
+  font-weight: 400;
+  color: #747474;
+  font-size: 15px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: 19px;
+}
+
+.vasavi-group .overlap-32 {
+  position: absolute;
+  width: 1440px;
+  height: 680px;
+  top: 88px;
+  left: 0;
+  background-image: url(./img/image-13.png);
+  background-size: cover;
+  background-position: 50% 50%;
+}
+
+.vasavi-group .frame-4 {
+  position: absolute;
+  width: 380px;
+  height: 445px;
+  top: 112px;
+  left: 990px;
+}
+
+.vasavi-group .group-11 {
+  position: absolute;
+  width: 104px;
+  height: 5px;
+  top: 654px;
+  left: 668px;
+}
+
+.vasavi-group .overlap-33 {
+  position: absolute;
+  width: 1440px;
+  height: 904px;
+  top: 9554px;
+  left: 0;
+  background-color: #2b2e66;
+}
+
+.vasavi-group .PREMIUM-APARTMENTS {
+  position: absolute;
+  top: 79px;
+  left: 377px;
+  font-family: "Roboto", Helvetica;
+  font-weight: 600;
+  color: #ffffff;
+  font-size: 46.4px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: 52.7px;
+  white-space: nowrap;
+}
+
+.vasavi-group .text-wrapper-32 {
+  font-family: "Roboto", Helvetica;
+  font-weight: 600;
+  color: #ffffff;
+  font-size: 46.4px;
+  letter-spacing: 0;
+  line-height: 52.7px;
+}
+
+.vasavi-group .text-wrapper-33 {
+  position: absolute;
+  width: 1286px;
+  top: 148px;
+  left: 76px;
+  font-family: "Roboto", Helvetica;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 20px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: 27px;
+}
+
+.vasavi-group .youtube-logo-youtube-wrapper {
+  position: absolute;
+  width: 862px;
+  height: 448px;
+  top: 248px;
+  left: 288px;
+  background-image: url(./img/mask-group-6.png);
+  background-size: 100% 100%;
+}
+
+.vasavi-group .youtube-logo-youtube {
+  position: absolute;
+  width: 112px;
+  height: 98px;
+  top: 178px;
+  left: 375px;
+}
+
+.vasavi-group .frame-5 {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  gap: 7.49px;
+  padding: 16px 22.47px;
+  position: absolute;
+  top: 776px;
+  left: 609px;
+  background-color: #d6b25e;
+  border-radius: 8px;
+}
+
+.vasavi-group .text-wrapper-34 {
+  position: relative;
+  width: fit-content;
+  margin-top: -0.75px;
+  font-family: "Roboto", Helvetica;
+  font-weight: 700;
+  color: #ffffff;
+  font-size: 15.7px;
+  text-align: right;
+  letter-spacing: 0;
+  line-height: 15.7px;
+  white-space: nowrap;
+}
+
+.vasavi-group .why-invest-in-india {
+  position: absolute;
+  width: 503px;
+  top: 2260px;
+  left: 70px;
+  font-family: "Roboto", Helvetica;
+  font-weight: 400;
+  color: #2b2e66;
+  font-size: 42px;
+  letter-spacing: 0;
+  line-height: 47.7px;
+}
+
+.vasavi-group .text-wrapper-35 {
+  font-weight: 300;
+}
+
+.vasavi-group .text-wrapper-36 {
+  font-weight: 600;
+  font-size: 56px;
+  line-height: 63.6px;
+}
+
+.vasavi-group .our-other-projects {
+  position: absolute;
+  top: 10537px;
+  left: 509px;
+  font-family: "Poppins", Helvetica;
+  font-weight: 600;
+  color: #2b2e66;
+  font-size: 46.4px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: 52.7px;
+  white-space: nowrap;
+}
+
+.vasavi-group .text-wrapper-37 {
+  position: absolute;
+  width: 108px;
+  top: 12185px;
+  left: 665px;
+  font-family: "Roboto", Helvetica;
+  font-weight: 600;
+  color: #2b2e66;
+  font-size: 46.4px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: 52.7px;
+  white-space: nowrap;
+}
+
+.vasavi-group .text-wrapper-38 {
+  position: absolute;
+  top: 8900px;
+  left: 472px;
+  font-family: "Roboto", Helvetica;
+  font-weight: 600;
+  color: #2b2e66;
+  font-size: 46.4px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: 52.7px;
+  white-space: nowrap;
+}
+
+.vasavi-group .overlap-34 {
+  position: absolute;
+  width: 1440px;
+  height: 456px;
+  top: 12790px;
+  left: 0;
+  background-color: #2b2e66;
+}
+
+.vasavi-group .ADDRESS-vasavi {
+  position: absolute;
+  width: 368px;
+  top: 135px;
+  left: 555px;
+  font-family: "Roboto", Helvetica;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 19.5px;
+  letter-spacing: 0;
+  line-height: 26.3px;
+}
+
+.vasavi-group .contact-us {
+  position: absolute;
+  width: 315px;
+  top: 135px;
+  left: 1055px;
+  font-family: "Roboto", Helvetica;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 19.5px;
+  letter-spacing: 0;
+  line-height: 17.7px;
+}
+
+.vasavi-group .text-wrapper-39 {
+  position: absolute;
+  top: 245px;
+  left: 70px;
+  font-family: "Roboto", Helvetica;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 19.5px;
+  letter-spacing: 0;
+  line-height: 26.3px;
+  white-space: nowrap;
+}
+
+.vasavi-group .vasavi-logo-2 {
+  top: 136px;
+  left: 70px;
+  position: absolute;
+  width: 246px;
+  height: 56px;
+}
+
+.vasavi-group .group-12 {
+  position: absolute;
+  width: 29px;
+  height: 29px;
+  top: 292px;
+  left: 240px;
+}
+
+.vasavi-group .vector-5 {
+  position: absolute;
+  width: 29px;
+  height: 29px;
+  top: 292px;
+  left: 155px;
+}
+
+.vasavi-group .vector-6 {
+  position: absolute;
+  width: 29px;
+  height: 29px;
+  top: 292px;
+  left: 197px;
+}
+
+.vasavi-group .vector-7 {
+  position: absolute;
+  width: 29px;
+  height: 29px;
+  top: 292px;
+  left: 70px;
+}
+
+.vasavi-group .group-13 {
+  position: absolute;
+  width: 29px;
+  height: 29px;
+  top: 292px;
+  left: 112px;
+}
+
+.vasavi-group .text-wrapper-40 {
+  width: 1286px;
+  top: 10606px;
+  left: 76px;
+  font-weight: 400;
+  color: #999999;
+  font-size: 20px;
+  text-align: center;
+  line-height: 27px;
+  position: absolute;
+  font-family: "Roboto", Helvetica;
+  letter-spacing: 0;
+}
+
+.vasavi-group .VASAVI-ATLANTIS-ALL {
+  position: absolute;
+  top: 13275px;
+  left: 423px;
+  font-family: "Roboto", Helvetica;
+  font-weight: 400;
+  color: #999999;
+  font-size: 15.7px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: 21.2px;
+  white-space: nowrap;
+}
+
+.vasavi-group .text-wrapper-41 {
+  font-family: "Roboto", Helvetica;
+  font-weight: 400;
+  color: #999999;
+  font-size: 15.7px;
+  letter-spacing: 0;
+  line-height: 21.2px;
+}
+
+.vasavi-group .mask-group {
+  position: absolute;
+  width: 720px;
+  height: 630px;
+  top: 848px;
+  left: 0;
+}
+
+.vasavi-group .group-14 {
+  position: absolute;
+  width: 40px;
+  height: 40px;
+  top: 9198px;
+  left: 70px;
+  border: 3px solid;
+  border-color: #d6b25e;
+}
+
+.vasavi-group .vector-8 {
+  position: absolute;
+  width: 13px;
+  height: 22px;
+  top: 6px;
+  left: 10px;
+}
+
+.vasavi-group .group-15 {
+  position: absolute;
+  width: 40px;
+  height: 40px;
+  top: 9198px;
+  left: 1330px;
+}
+
+.vasavi-group .overlap-group-3 {
+  position: relative;
+  height: 40px;
+}
+
+.vasavi-group .rectangle-5 {
+  position: absolute;
+  width: 40px;
+  height: 40px;
+  top: 0;
+  left: 0;
+  background-color: #d6b25e;
+  transform: rotate(180deg);
+}
+
+.vasavi-group .vector-9 {
+  position: absolute;
+  width: 13px;
+  height: 22px;
+  top: 8px;
+  left: 15px;
+}
+
+.vasavi-group .tower-wrapper {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  gap: 7.49px;
+  padding: 16px 40px;
+  position: absolute;
+  top: 7661px;
+  left: 72px;
+  background-color: #d6b25e;
+}
+
+.vasavi-group .frame-6 {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  gap: 7.49px;
+  padding: 16px 40px;
+  position: absolute;
+  top: 7749px;
+  left: 72px;
+  background-color: #ffffff;
+  border: 1.5px solid;
+  border-color: #d6b25e;
+}
+
+.vasavi-group .tower {
+  position: relative;
+  width: fit-content;
+  margin-top: -1.5px;
+  font-family: "Roboto", Helvetica;
+  font-weight: 700;
+  color: #d6b25e;
+  font-size: 15.7px;
+  text-align: right;
+  letter-spacing: 0;
+  line-height: 15.7px;
+  white-space: nowrap;
+}
+
+.vasavi-group .frame-7 {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  gap: 7.49px;
+  padding: 16px 40px;
+  position: absolute;
+  top: 7837px;
+  left: 72px;
+  background-color: #ffffff;
+  border: 1.5px solid;
+  border-color: #d6b25e;
+}
+
+.vasavi-group .frame-8 {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  gap: 7.49px;
+  padding: 16px 40px;
+  position: absolute;
+  top: 7661px;
+  left: 259px;
+  background-color: #ffffff;
+  border: 1.5px solid;
+  border-color: #d6b25e;
+}
+
+.vasavi-group .frame-9 {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  gap: 7.49px;
+  padding: 16px 40px;
+  position: absolute;
+  top: 7749px;
+  left: 259px;
+  background-color: #ffffff;
+  border: 1.5px solid;
+  border-color: #d6b25e;
+}
+
+.vasavi-group .frame-10 {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  gap: 7.49px;
+  padding: 16px 40px;
+  position: absolute;
+  top: 7837px;
+  left: 259px;
+  background-color: #ffffff;
+  border: 1.5px solid;
+  border-color: #d6b25e;
+}
+
+.vasavi-group .frame-11 {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  gap: 7.49px;
+  padding: 16px 40px;
+  position: absolute;
+  top: 7661px;
+  left: 446px;
+  background-color: #ffffff;
+  border: 1.5px solid;
+  border-color: #d6b25e;
+}
+
+.vasavi-group .frame-12 {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  gap: 7.49px;
+  padding: 16px 40px;
+  position: absolute;
+  top: 7749px;
+  left: 446px;
+  background-color: #ffffff;
+  border: 1.5px solid;
+  border-color: #d6b25e;
+}
+
+.vasavi-group .text-wrapper-42 {
+  position: absolute;
+  top: 7444px;
+  left: 72px;
+  font-family: "Roboto", Helvetica;
+  font-weight: 600;
+  color: #2b2e66;
+  font-size: 46.4px;
+  letter-spacing: 0;
+  line-height: 52.7px;
+  white-space: nowrap;
+}
+
+.vasavi-group .text-wrapper-43 {
+  width: 546px;
+  top: 7513px;
+  left: 72px;
+  font-weight: 400;
+  color: #999999;
+  font-size: 20px;
+  line-height: 27px;
+  position: absolute;
+  font-family: "Roboto", Helvetica;
+  letter-spacing: 0;
+}
+
+.vasavi-group .image-wrapper {
+  display: inline-flex;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 5.82px;
+  padding: 11.63px 26.82px;
+  position: absolute;
+  top: 7443px;
+  left: 715px;
+  background-color: #ffffff;
+  border: 1.94px solid;
+  border-color: #d6b25e;
+}
+
+.vasavi-group .image {
+  position: relative;
+  width: 599.7px;
+  height: 528.73px;
+}
+
+.vasavi-group .overlap-35 {
+  position: absolute;
+  width: 330px;
+  height: 479px;
+  top: 8994px;
+  left: 555px;
+}
+
+.vasavi-group .rectangle-6 {
+  position: absolute;
+  width: 330px;
+  height: 448px;
+  top: 0;
+  left: 0;
+  background-color: #2b2e66;
+  box-shadow: 11.98px 11.23px 52.43px #00000005;
+}
+
+.vasavi-group .text-wrapper-44 {
+  width: 255px;
+  top: 189px;
+  left: 40px;
+  font-weight: 300;
+  color: #cecff1;
+  font-size: 19.5px;
+  line-height: 26.3px;
+  position: absolute;
+  font-family: "Roboto", Helvetica;
+  letter-spacing: 0;
+}
+
+.vasavi-group .text-wrapper-45 {
+  position: absolute;
+  top: 147px;
+  left: 40px;
+  font-family: "Roboto", Helvetica;
+  font-weight: 700;
+  color: #d6b25e;
+  font-size: 19.5px;
+  letter-spacing: 0;
+  line-height: 26.3px;
+  white-space: nowrap;
+}
+
+.vasavi-group .text-wrapper-46 {
+  top: 187px;
+  left: 191px;
+  transform: rotate(180deg);
+  font-family: "Helvetica Now Text -Bold", Helvetica;
+  color: #3c3f7f;
+  font-size: 216px;
+  line-height: 291.6px;
+  position: absolute;
+  font-weight: 700;
+  letter-spacing: 0;
+  white-space: nowrap;
+}
+
+.vasavi-group .mask-group-2 {
+  position: absolute;
+  width: 100px;
+  height: 100px;
+  top: 40px;
+  left: 40px;
+}
+
+.vasavi-group .overlap-36 {
+  position: absolute;
+  width: 330px;
+  height: 479px;
+  top: 8994px;
+  left: 180px;
+}
+
+.vasavi-group .rectangle-7 {
+  position: absolute;
+  width: 330px;
+  height: 448px;
+  top: 0;
+  left: 0;
+  background-color: #ffffff;
+  box-shadow: 11.98px 11.23px 52.43px #00000005;
+}
+
+.vasavi-group .text-wrapper-47 {
+  position: absolute;
+  width: 255px;
+  top: 189px;
+  left: 40px;
+  font-family: "Roboto", Helvetica;
+  font-weight: 300;
+  color: #747474;
+  font-size: 20px;
+  letter-spacing: 0;
+  line-height: 27px;
+}
+
+.vasavi-group .text-wrapper-48 {
+  top: 187px;
+  left: 191px;
+  transform: rotate(180deg);
+  font-family: "Helvetica Now Text -Bold", Helvetica;
+  color: #ebebeb;
+  font-size: 216px;
+  line-height: 291.6px;
+  position: absolute;
+  font-weight: 700;
+  letter-spacing: 0;
+  white-space: nowrap;
+}
+
+.vasavi-group .overlap-37 {
+  position: absolute;
+  width: 330px;
+  height: 479px;
+  top: 8994px;
+  left: 930px;
+}
+
+.vasavi-group .frame-13 {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  gap: 7.49px;
+  padding: 16px 22.47px;
+  position: absolute;
+  top: 7949px;
+  left: 72px;
+  background-color: #2b2e66;
+}
+
+.vasavi-group .should-you-really {
+  position: absolute;
+  width: 549px;
+  top: 867px;
+  left: 821px;
+  font-family: "Roboto", Helvetica;
+  font-weight: 400;
+  color: #2b2e66;
+  font-size: 42px;
+  letter-spacing: 0;
+  line-height: 43.3px;
+}
+
+.vasavi-group .text-wrapper-49 {
+  font-weight: 700;
+  font-size: 56px;
+  line-height: 57.7px;
+}
+
+.vasavi-group .text-wrapper-50 {
+  position: absolute;
+  top: 979px;
+  left: 821px;
+  font-family: "Roboto", Helvetica;
+  font-weight: 400;
+  color: #d6b25e;
+  font-size: 24px;
+  letter-spacing: 0;
+  line-height: 27.2px;
+  white-space: nowrap;
+}
+
+.vasavi-group .frame-14 {
+  top: 1409px;
+  left: 820px;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  gap: 10px;
+  padding: 12.5px 32px;
+  position: absolute;
+  background-color: #2b2e66;
+}
+
+.vasavi-group .frame-15 {
+  top: 2779px;
+  left: 70px;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  gap: 10px;
+  padding: 12.5px 32px;
+  position: absolute;
+  background-color: #2b2e66;
+}
+
+.vasavi-group .text-wrapper-51 {
+  position: absolute;
+  top: 3868px;
+  left: 209px;
+  font-family: "Roboto", Helvetica;
+  font-weight: 600;
+  color: #2b2e66;
+  font-size: 46.4px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: 52.7px;
+  white-space: nowrap;
+}
+
+.vasavi-group .text-wrapper-52 {
+  width: 1285px;
+  top: 3937px;
+  left: 77px;
+  font-weight: 400;
+  color: #747474;
+  font-size: 20px;
+  text-align: center;
+  line-height: 27px;
+  position: absolute;
+  font-family: "Roboto", Helvetica;
+  letter-spacing: 0;
+}
+
+.vasavi-group .overlap-38 {
+  position: absolute;
+  width: 310px;
+  height: 376px;
+  top: 4037px;
+  left: 70px;
+  background-color: #2b2e66;
+}
+
+.vasavi-group .group-16 {
+  position: absolute;
+  width: 224px;
+  height: 139px;
+  top: 168px;
+  left: 45px;
+}
+
+.vasavi-group .overlap-39 {
+  position: relative;
+  width: 225px;
+  height: 139px;
+}
+
+.vasavi-group .group-17 {
+  position: absolute;
+  width: 224px;
+  height: 105px;
+  top: 0;
+  left: 1px;
+}
+
+.vasavi-group .overlap-group-4 {
+  position: absolute;
+  width: 193px;
+  height: 105px;
+  top: 0;
+  left: 0;
+}
+
+.vasavi-group .element {
+  position: absolute;
+  top: 0;
+  left: 0;
+  font-family: "Roboto", Helvetica;
+  font-weight: 400;
+  color: transparent;
+  font-size: 21px;
+  text-align: center;
+  line-height: 21px;
+}
+
+.vasavi-group .text-wrapper-53 {
+  color: #d6b25e;
+  letter-spacing: 0;
+  line-height: 23.8px;
+}
+
+.vasavi-group .text-wrapper-54 {
+  font-weight: 700;
+  color: #ffffff;
+  font-size: 67px;
+  letter-spacing: 0;
+  line-height: 71.7px;
+}
+
+.vasavi-group .text-wrapper-55 {
+  font-weight: 700;
+  color: #ffffff;
+  font-size: 67px;
+  letter-spacing: -8.04px;
+  line-height: 71.7px;
+}
+
+.vasavi-group .text-wrapper-56 {
+  font-weight: 700;
+  color: #ffffff;
+  font-size: 67px;
+  letter-spacing: -13.06px;
+  line-height: 71.7px;
+}
+
+.vasavi-group .text-wrapper-57 {
+  top: 32px;
+  left: 77px;
+  font-family: "Roboto", Helvetica;
+  color: #ffffff;
+  font-size: 32px;
+  text-align: center;
+  line-height: 30.1px;
+  position: absolute;
+  font-weight: 700;
+  letter-spacing: 0;
+  white-space: nowrap;
+}
+
+.vasavi-group .text-wrapper-58 {
+  top: 32px;
+  left: 194px;
+  font-family: "Roboto", Helvetica;
+  color: #ffffff;
+  font-size: 32px;
+  text-align: center;
+  line-height: 30.1px;
+  position: absolute;
+  font-weight: 700;
+  letter-spacing: 0;
+  white-space: nowrap;
+}
+
+.vasavi-group .peak-in-average {
+  position: absolute;
+  width: 220px;
+  top: 91px;
+  left: 0;
+  font-family: "Roboto", Helvetica;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 21px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: 21px;
+}
+
+.vasavi-group .text-wrapper-59 {
+  line-height: 9.1px;
+}
+
+.vasavi-group .text-wrapper-60 {
+  line-height: 23.8px;
+}
+
+.vasavi-group .text-wrapper-61 {
+  position: absolute;
+  top: 8px;
+  left: 74px;
+  font-family: "Roboto", Helvetica;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 21px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: 23.8px;
+  white-space: nowrap;
+}
+
+.vasavi-group .layer-9 {
+  position: absolute;
+  width: 67px;
+  height: 60px;
+  top: 68px;
+  left: 122px;
+}
+
+.vasavi-group .overlap-40 {
+  position: absolute;
+  width: 310px;
+  height: 376px;
+  top: 4037px;
+  left: 730px;
+  background-color: #2b2e66;
+}
+
+.vasavi-group .element-yoy-growth-in {
+  position: absolute;
+  width: 242px;
+  top: 183px;
+  left: 34px;
+  font-family: "Roboto", Helvetica;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 67px;
+  text-align: center;
+  line-height: 67px;
+}
+
+.vasavi-group .text-wrapper-62 {
+  font-weight: 700;
+  letter-spacing: 0;
+  line-height: 76px;
+}
+
+.vasavi-group .text-wrapper-63 {
+  font-weight: 700;
+  letter-spacing: -16.08px;
+  line-height: 76px;
+}
+
+.vasavi-group .text-wrapper-64 {
+  font-size: 21px;
+  letter-spacing: 0;
+  line-height: 23.8px;
+}
+
+.vasavi-group .text-wrapper-65 {
+  font-size: 21px;
+  letter-spacing: 0;
+  line-height: 20.7px;
+}
+
+.vasavi-group .layer-10 {
+  position: absolute;
+  width: 57px;
+  height: 60px;
+  top: 68px;
+  left: 127px;
+}
+
+.vasavi-group .overlap-41 {
+  position: absolute;
+  width: 310px;
+  height: 376px;
+  top: 4037px;
+  left: 400px;
+  background-color: #2b2e66;
+}
+
+.vasavi-group .element-rapid-increase {
+  position: absolute;
+  width: 213px;
+  top: 184px;
+  left: 49px;
+  font-family: "Roboto", Helvetica;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 67px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: 67px;
+}
+
+.vasavi-group .text-wrapper-66 {
+  font-weight: 700;
+  line-height: 76px;
+}
+
+.vasavi-group .text-wrapper-67 {
+  font-size: 21px;
+  line-height: 19.9px;
+}
+
+.vasavi-group .layer-11 {
+  position: absolute;
+  width: 65px;
+  height: 60px;
+  top: 68px;
+  left: 122px;
+}
+
+.vasavi-group .overlap-42 {
+  position: absolute;
+  width: 310px;
+  height: 376px;
+  top: 4037px;
+  left: 1060px;
+  background-color: #2b2e66;
+}
+
+.vasavi-group .element-increase-in-price {
+  position: absolute;
+  width: 232px;
+  top: 179px;
+  left: 39px;
+  font-family: "Roboto", Helvetica;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 67px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: 76px;
+}
+
+.vasavi-group .text-wrapper-68 {
+  font-weight: 700;
+}
+
+.vasavi-group .text-wrapper-69 {
+  font-size: 21px;
+  line-height: 23.8px;
+}
+
+.vasavi-group .layer-12 {
+  position: absolute;
+  width: 71px;
+  height: 60px;
+  top: 68px;
+  left: 120px;
+}
+
+.vasavi-group .lorem-ipsum-is {
+  position: absolute;
+  width: 982px;
+  top: 12355px;
+  left: 180px;
+  font-family: "Roboto", Helvetica;
+  font-weight: 400;
+  color: #747474;
+  font-size: 19px;
+  letter-spacing: 0;
+  line-height: 26.8px;
+}
+
+.vasavi-group .text-wrapper-70 {
+  top: 12525px;
+  left: 180px;
+  font-weight: 700;
+  color: #2b2e66;
+  font-size: 27px;
+  line-height: 38.1px;
+  white-space: nowrap;
+  position: absolute;
+  font-family: "Roboto", Helvetica;
+  letter-spacing: 0;
+}
+
+.vasavi-group .text-wrapper-71 {
+  position: absolute;
+  top: 12595px;
+  left: 180px;
+  font-family: "Roboto", Helvetica;
+  font-weight: 700;
+  color: #2b2e66;
+  font-size: 27px;
+  letter-spacing: 0;
+  line-height: 38.1px;
+  white-space: nowrap;
+}
+
+.vasavi-group .text-wrapper-72 {
+  position: absolute;
+  width: 637px;
+  top: 12665px;
+  left: 180px;
+  font-family: "Roboto", Helvetica;
+  font-weight: 700;
+  color: #2b2e66;
+  font-size: 27px;
+  letter-spacing: 0;
+  line-height: 38.1px;
+  white-space: nowrap;
+}
+
+.vasavi-group .vector-10 {
+  position: absolute;
+  width: 1082px;
+  height: 2px;
+  top: 12509px;
+  left: 179px;
+}
+
+.vasavi-group .vector-11 {
+  position: absolute;
+  width: 1082px;
+  height: 2px;
+  top: 12579px;
+  left: 179px;
+}
+
+.vasavi-group .vector-12 {
+  position: absolute;
+  width: 1082px;
+  height: 2px;
+  top: 12649px;
+  left: 179px;
+}
+
+.vasavi-group .vasavi-sarovar {
+  position: absolute;
+  top: 11121px;
+  left: 633px;
+  font-family: "Roboto", Helvetica;
+  font-weight: 400;
+  color: transparent;
+  font-size: 26px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: 35.1px;
+}
+
+.vasavi-group .text-wrapper-73 {
+  font-weight: 700;
+  color: #d6b25e;
+}
+
+.vasavi-group .text-wrapper-74 {
+  color: #999999;
+  font-size: 17px;
+  line-height: 23px;
+}
+
+.vasavi-group .vasavi-crown-east {
+  position: absolute;
+  top: 11121px;
+  left: 237px;
+  font-family: "Roboto", Helvetica;
+  font-weight: 400;
+  color: transparent;
+  font-size: 26px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: 35.1px;
+}
+
+.vasavi-group .overlap-43 {
+  position: absolute;
+  width: 386px;
+  height: 474px;
+  top: 10706px;
+  left: 910px;
+}
+
+.vasavi-group .vasavi-skyla-hitech {
+  position: absolute;
+  top: 415px;
+  left: 89px;
+  font-family: "Roboto", Helvetica;
+  font-weight: 400;
+  color: transparent;
+  font-size: 26px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: 35.1px;
+}
+
+.vasavi-group .text-wrapper-75 {
+  color: #999999;
+  font-size: 19.5px;
+  line-height: 26.3px;
+}
+
+.vasavi-group .project-image {
+  position: absolute;
+  width: 386px;
+  height: 422px;
+  top: 0;
+  left: 0;
+}
+
+.vasavi-group .group-18 {
+  position: absolute;
+  width: 40px;
+  height: 40px;
+  top: 10886px;
+  left: 70px;
+  border: 3px solid;
+  border-color: #d6b25e;
+}
+
+.vasavi-group .group-19 {
+  position: absolute;
+  width: 40px;
+  height: 40px;
+  top: 10886px;
+  left: 1330px;
+}
+
+.vasavi-group .text-wrapper-76 {
+  position: absolute;
+  top: 12301px;
+  left: 180px;
+  font-family: "Roboto", Helvetica;
+  font-weight: 700;
+  color: #2b2e66;
+  font-size: 27px;
+  letter-spacing: 0;
+  line-height: 38.1px;
+  white-space: nowrap;
+}
+
+.vasavi-group .project-image-2 {
+  position: absolute;
+  width: 366px;
+  height: 400px;
+  top: 10706px;
+  left: 539px;
+}
+
+.vasavi-group .project-image-3 {
+  position: absolute;
+  width: 366px;
+  height: 400px;
+  top: 10706px;
+  left: 146px;
+}
+
+.vasavi-group .vector-13 {
+  position: absolute;
+  width: 33px;
+  height: 18px;
+  top: 12311px;
+  left: 1202px;
+}
+
+.vasavi-group .vector-14 {
+  position: absolute;
+  width: 33px;
+  height: 18px;
+  top: 12536px;
+  left: 1202px;
+}
+
+.vasavi-group .vector-15 {
+  position: absolute;
+  width: 33px;
+  height: 18px;
+  top: 12606px;
+  left: 1202px;
+}
+
+.vasavi-group .mask-group-3 {
+  position: absolute;
+  width: 720px;
+  height: 630px;
+  top: 2241px;
+  left: 720px;
+}
+
+.vasavi-group .overlap-44 {
+  position: absolute;
+  width: 1440px;
+  height: 744px;
+  top: 8077px;
+  left: 0;
+  background-color: #2b2e66;
+}
+
+.vasavi-group .text-wrapper-77 {
+  width: 1286px;
+  top: 148px;
+  left: 76px;
+  font-weight: 400;
+  color: #cecff1;
+  font-size: 20px;
+  text-align: center;
+  line-height: 27px;
+  position: absolute;
+  font-family: "Roboto", Helvetica;
+  letter-spacing: 0;
+}
+
+.vasavi-group .overlap-45 {
+  position: absolute;
+  width: 326px;
+  height: 308px;
+  top: 248px;
+  left: 557px;
+  background-color: #d6b25e;
+  box-shadow: 11.98px 11.23px 52.43px #00000005;
+}
+
+.vasavi-group .lock {
+  position: absolute;
+  width: 46px;
+  height: 55px;
+  top: 119px;
+  left: 140px;
+}
+
+.vasavi-group .overlap-46 {
+  position: relative;
+  height: 58px;
+  top: -3px;
+}
+
+.vasavi-group .rectangle-8 {
+  position: absolute;
+  width: 30px;
+  height: 39px;
+  top: 0;
+  left: 8px;
+  border-radius: 13.76px;
+  border: 6.88px solid;
+  border-color: #ffffff;
+}
+
+.vasavi-group .rectangle-9 {
+  position: absolute;
+  width: 46px;
+  height: 34px;
+  top: 24px;
+  left: 0;
+  background-color: #ffffff;
+  border-radius: 6.88px;
+}
+
+.vasavi-group .frame-16 {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  gap: 7.49px;
+  padding: 11.23px 14.98px;
+  position: absolute;
+  top: 211px;
+  left: 88px;
+  background-color: #ffffff;
+}
+
+.vasavi-group .text-wrapper-78 {
+  position: relative;
+  width: fit-content;
+  margin-top: -0.75px;
+  font-family: "Roboto", Helvetica;
+  font-weight: 600;
+  color: #d6b25e;
+  font-size: 15.7px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: 17.9px;
+  white-space: nowrap;
+}
+
+.vasavi-group .text-wrapper-79 {
+  position: absolute;
+  top: 33px;
+  left: 44px;
+  font-family: "Roboto", Helvetica;
+  font-weight: 700;
+  color: #ffffff;
+  font-size: 32px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: 43.2px;
+  white-space: nowrap;
+}
+
+.vasavi-group .overlap-47 {
+  position: absolute;
+  width: 271px;
+  height: 237px;
+  top: 282px;
+  left: 945px;
+  background-color: #ffffff;
+  box-shadow: 11.98px 11.23px 52.43px #00000005;
+}
+
+.vasavi-group .lock-2 {
+  position: absolute;
+  width: 31px;
+  height: 37px;
+  top: 91px;
+  left: 120px;
+}
+
+.vasavi-group .overlap-48 {
+  position: relative;
+  height: 40px;
+  top: -2px;
+}
+
+.vasavi-group .rectangle-10 {
+  position: absolute;
+  width: 21px;
+  height: 27px;
+  top: 0;
+  left: 5px;
+  border-radius: 13.76px;
+  border: 5px solid;
+  border-color: #d6b25e;
+}
+
+.vasavi-group .rectangle-11 {
+  position: absolute;
+  width: 31px;
+  height: 23px;
+  top: 17px;
+  left: 0;
+  background-color: #d6b25e;
+  border-radius: 6.88px;
+}
+
+.vasavi-group .frame-17 {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  gap: 7.49px;
+  padding: 11.23px 14.98px;
+  position: absolute;
+  top: 166px;
+  left: 59px;
+  background-color: #d6b25e;
+}
+
+.vasavi-group .text-wrapper-80 {
+  position: relative;
+  width: fit-content;
+  margin-top: -0.75px;
+  font-family: "Roboto", Helvetica;
+  font-weight: 700;
+  color: #ffffff;
+  font-size: 16px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: 18.2px;
+  white-space: nowrap;
+}
+
+.vasavi-group .text-wrapper-81 {
+  position: absolute;
+  top: 34px;
+  left: 35px;
+  font-family: "Roboto", Helvetica;
+  font-weight: 700;
+  color: #747474;
+  font-size: 27px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: 36.5px;
+  white-space: nowrap;
+}
+
+.vasavi-group .overlap-49 {
+  position: absolute;
+  width: 271px;
+  height: 237px;
+  top: 282px;
+  left: 224px;
+  background-color: #ffffff;
+  box-shadow: 11.98px 11.23px 52.43px #00000005;
+}
+
+.vasavi-group .text-wrapper-82 {
+  position: absolute;
+  top: 79px;
+  left: 611px;
+  font-family: "Roboto", Helvetica;
+  font-weight: 600;
+  color: #ffffff;
+  font-size: 46.4px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: 52.7px;
+  white-space: nowrap;
+}
+
+.vasavi-group .frame-18 {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  gap: 10px;
+  padding: 12.5px 35px;
+  position: absolute;
+  top: 616px;
+  left: 612px;
+  background-color: #d6b25e;
+}
+
+.vasavi-group .overlap-50 {
+  position: absolute;
+  width: 1440px;
+  height: 603px;
+  top: 1558px;
+  left: 0;
+}
+
+.vasavi-group .group-20 {
+  position: absolute;
+  width: 1440px;
+  height: 603px;
+  top: 0;
+  left: 0;
+}
+
+.vasavi-group .overlap-51 {
+  position: relative;
+  height: 603px;
+}
+
+.vasavi-group .mask-group-4 {
+  position: absolute;
+  width: 1439px;
+  height: 603px;
+  top: 0;
+  left: 0;
+}
+
+.vasavi-group .rectangle-12 {
+  position: absolute;
+  width: 1440px;
+  height: 603px;
+  top: 0;
+  left: 0;
+  background: radial-gradient(50% 50% at 50% 50%, rgba(43, 46, 102, 0.27) 0%, rgba(43, 46, 102, 0.99) 100%);
+}
+
+.vasavi-group .frame-19 {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  gap: 10px;
+  padding: 12.5px 32px;
+  position: absolute;
+  top: 389px;
+  left: 70px;
+  background-color: #d6b25e;
+}
+
+.vasavi-group .text-wrapper-83 {
+  width: 470px;
+  top: 211px;
+  left: 70px;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 20px;
+  line-height: 27px;
+  position: absolute;
+  font-family: "Roboto", Helvetica;
+  letter-spacing: 0;
+}
+
+.vasavi-group .invest-your-best-in {
+  position: absolute;
+  width: 496px;
+  top: 79px;
+  left: 70px;
+  font-family: "Roboto", Helvetica;
+  font-weight: 400;
+  color: transparent;
+  font-size: 56px;
+  letter-spacing: 0;
+  line-height: 57.7px;
+}
+
+.vasavi-group .text-wrapper-84 {
+  font-weight: 300;
+  color: #ffffff;
+}
